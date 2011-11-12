@@ -1,0 +1,28 @@
+This script is meant for giving support to php developers while searching for some specific frameworks / cms functions. This script is functional using ubiquity plugin for mozilla firefox.
+
+
+Download Ubiquity : https://mozillalabs.com/ubiquity
+
+After you have succesfully downloaded the ubiquity plugin open page go.html then click on subscribe and you are done. Now to use ubiquity press CTRL + SPACE in your mozilla firefox browser. You can see script working.See steps below to take advantage of script:
+
+
+1. Open mozilla firefox.
+2. Press CTRL + SPACE
+3. Now write   go
+4. After writing  go , you will see list of search options.
+5. We'll be using wordpress search as an example.
+6. For wordpress :
+	"go wp searchText"
+      This means you have to type go followed by wp and then your search keyword. eg. go wp hooks
+
+	"go wpf funcName"
+      You can use this command in case you are searching for a specific wordpress function. eg. go wpf get_posts
+
+7.You can try search functions available for few other frameworks / cms.
+8.Thanks for using.
+
+Regards
+Aman Singh Kamboj
+spamxy-z@yahoo.co.in
+http://in.linkedin.com/in/amansinghkamboj
+http://twitter.com/amansinghkamboj
